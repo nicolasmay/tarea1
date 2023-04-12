@@ -1,0 +1,15 @@
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\bin\Debug\net7.0\SkyNet1.exe
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\bin\Debug\net7.0\SkyNet1.deps.json
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\bin\Debug\net7.0\SkyNet1.runtimeconfig.json
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\bin\Debug\net7.0\SkyNet1.dll
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\bin\Debug\net7.0\SkyNet1.pdb
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\obj\Debug\net7.0\SkyNet1.csproj.AssemblyReference.cache
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\obj\Debug\net7.0\SkyNet1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\obj\Debug\net7.0\SkyNet1.AssemblyInfoInputs.cache
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\obj\Debug\net7.0\SkyNet1.AssemblyInfo.cs
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\obj\Debug\net7.0\SkyNet1.csproj.CoreCompileInputs.cache
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\obj\Debug\net7.0\SkyNet1.dll
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\obj\Debug\net7.0\refint\SkyNet1.dll
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\obj\Debug\net7.0\SkyNet1.pdb
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\obj\Debug\net7.0\SkyNet1.genruntimeconfig.cache
+C:\Users\cs_ai\source\repos\SkyNet1\SkyNet1\obj\Debug\net7.0\ref\SkyNet1.dll
